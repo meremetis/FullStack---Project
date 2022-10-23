@@ -1,0 +1,49 @@
+canvas{
+  position:fixed;
+  left:0;
+  top:0;
+  z-index:-1;
+
+ 
+}
+body,html
+{
+    height: 100vh;
+}
+.pinakas
+{
+    margin-top: 300px;
+    text-align: center;
+}
+table
+{
+    margin-top: 300px;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.767);
+  
+  border: 2px solid #73ff00;
+  box-shadow: 0px 0px 10px 10px #73ff00;
+}
+td
+{
+  padding: 20px;
+  
+ background-color: black;
+}
+th
+{
+  padding: 20px;
+  
+ background-color: black;
+}
+h1
+{
+  color: #73ff00;
+  font-weight: bold;
+ background-color: black;
+ width: 200px;
+ box-shadow: 0px 0px 10px 10px #73ff00;
+ margin: auto;
+ padding: 10px;
+
+}
